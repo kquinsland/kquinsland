@@ -4,40 +4,45 @@
   <img src="https://karlquinsland.com/images/avatar.jpg">
   <br><br>
   <samp>
-    I'm karl. Sr. SRE, Ops/Sys Admin by day, <i>curious</i> hardware hacker, maker and electronics tinkerer by night.
+    I'm karl. Sr. SRE, Ops/Sys Admin by day, curious hardware hacker, maker and electronics tinkerer by night.
     <br>
     In 6 words: engineer by experience, not by training.
   </samp>
 </p>
 
 
-### Languages and Tools...
+### Languages and Tools
 
-Coming soon...
-
-<!--
+By no means a complete list, but a sample of the many hats I wear, skills I foster on a weeekly basis.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+
+<img src="https://raw.githubusercontent.com/kquinsland/kquinsland/master/badges/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/kquinsland/kquinsland/master/badges/svg/dev/tools/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/kquinsland/kquinsland/master/badges/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/kquinsland/kquinsland/master/badges/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/kquinsland/kquinsland/master/badges/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/kquinsland/kquinsland/master/badges/svg/dev/tools/jetbrains_goland.svg" alt="goland" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/kquinsland/kquinsland/master/badges/svg/dev/misc/firefox.svg" alt="firefox" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/kquinsland/kquinsland/master/badges/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/kquinsland/kquinsland/master/badges/svg/dev/misc/security.svg" alt="SecOps" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/kquinsland/kquinsland/master/badges/svg/dev/misc/iot.svg" alt="IoT" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/kquinsland/kquinsland/master/badges/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/kquinsland/kquinsland/master/badges/svg/dev/services/digitalocean.svg" alt="digitalocean" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/kquinsland/kquinsland/master/badges/svg/dev/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/kquinsland/kquinsland/master/badges/svg/dev/services/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/kquinsland/kquinsland/master/badges/svg/dev/services/dockerhub.svg" alt="dockerhub" style="vertical-align:top; margin:4px">
+
 </p>
 
--->
+### Contact
 
-
-<br>📫 Contact details are <a href="https://karlquinsland.com/">here</a>
+<br>📫 Contact details are <a href="https://karlquinsland.com/contact">here</a>
 
 
 *************
