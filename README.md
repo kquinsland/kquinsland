@@ -1,7 +1,7 @@
 ## Hi, Github 👋
 
 <p align="center">
-  <img src="https://karlquinsland.com/images/avatar.jpg">
+  <img src="https://karlquinsland.com/images/avatar.png">
   <br><br>
   <samp>
     I'm karl. Sr. SRE, Ops/Sys Admin by day, curious hardware hacker, maker and electronics tinkerer by night.
